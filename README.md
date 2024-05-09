@@ -1,1 +1,2 @@
 # Snake
+Plongez dans l'univers nostalgique des jeux rétro avec Snake Touch, une adaptation moderne du classique jeu Snake. Glissez votre doigt sur l'écran pour guider le serpent affamé à travers un dédale de blocs. Chaque fois que le serpent mange une pomme, il grandit, rendant la navigation plus difficile. Évitez de vous heurter aux murs ou de vous mordre la queue, sinon c'est le Game Over ! Affrontez vos amis et voyez qui peut obtenir le score le plus élevé dans ce défi de réflexes et de stratégie. Êtes-vous prêt à relever le défi ?
